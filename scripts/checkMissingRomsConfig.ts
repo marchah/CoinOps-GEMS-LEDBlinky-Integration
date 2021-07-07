@@ -8,6 +8,8 @@ const controlConfPath =
 const gemsRomsList = './scripts/listMAMERomsGems.txt';
 const gemsPlusRomsList = './scripts/listMAMERomsGemsPlus.txt';
 const diamondsRomsList = './scripts/listMAMERomsDiamonds.txt';
+const next2ArcadeOfficalTrustedPackRomsList =
+  './scripts/listMAMERomsNext2ArcadeOfficialTrustedPack.txt';
 
 const COINOPS_MAME_ROMS: { [type: string]: string[] } = {};
 
@@ -78,6 +80,12 @@ function checkRomsConfig(
     })
   ).split('\n');
 
+  COINOPS_MAME_ROMS.NEXT_2_ARCADE_OFFICIAL = (
+    await promises.readFile(next2ArcadeOfficalTrustedPackRomsList, {
+      encoding: 'utf-8',
+    })
+  ).split('\n');
+
   await promises.writeFile(
     `./scripts/gemsInfo.json`,
     JSON.stringify(
@@ -105,6 +113,19 @@ function checkRomsConfig(
     JSON.stringify(
       checkRomsConfig(
         COINOPS_MAME_ROMS.DIAMONDS,
+        controlsRomNames,
+        colorsRomNames
+      ),
+      null,
+      2
+    )
+  );
+
+  await promises.writeFile(
+    `./scripts/next2ArcadeOfficialInfo.json`,
+    JSON.stringify(
+      checkRomsConfig(
+        COINOPS_MAME_ROMS.NEXT_2_ARCADE_OFFICIAL,
         controlsRomNames,
         colorsRomNames
       ),

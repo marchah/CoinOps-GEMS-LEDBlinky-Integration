@@ -1,0 +1,3674 @@
+{
+  "720": {
+    "controls": true,
+    "colors": true
+  },
+  "1941": {
+    "controls": true,
+    "colors": true
+  },
+  "1942": {
+    "controls": true,
+    "colors": true
+  },
+  "1943": {
+    "controls": true,
+    "colors": true
+  },
+  "1944": {
+    "controls": true,
+    "colors": true
+  },
+  "10yard": {
+    "controls": false,
+    "colors": false
+  },
+  "1943kai": {
+    "controls": true,
+    "colors": false
+  },
+  "1945kiii": {
+    "controls": false,
+    "colors": false
+  },
+  "19xx": {
+    "controls": true,
+    "colors": true
+  },
+  "2020bb": {
+    "controls": false,
+    "colors": true
+  },
+  "3countb": {
+    "controls": false,
+    "colors": true
+  },
+  "3wonders": {
+    "controls": true,
+    "colors": true
+  },
+  "64street": {
+    "controls": true,
+    "colors": false
+  },
+  "aburner2": {
+    "controls": true,
+    "colors": true
+  },
+  "actfancr": {
+    "controls": true,
+    "colors": false
+  },
+  "aerofgt": {
+    "controls": true,
+    "colors": true
+  },
+  "agallet": {
+    "controls": false,
+    "colors": false
+  },
+  "airbustr": {
+    "controls": true,
+    "colors": true
+  },
+  "airduel": {
+    "controls": true,
+    "colors": false
+  },
+  "airwolf": {
+    "controls": true,
+    "colors": true
+  },
+  "ajax": {
+    "controls": true,
+    "colors": true
+  },
+  "akatana": {
+    "controls": false,
+    "colors": false
+  },
+  "alexkidd": {
+    "controls": true,
+    "colors": false
+  },
+  "alien3": {
+    "controls": true,
+    "colors": true
+  },
+  "aliens": {
+    "controls": true,
+    "colors": true
+  },
+  "aliensyn": {
+    "controls": true,
+    "colors": true
+  },
+  "alpham2": {
+    "controls": false,
+    "colors": true
+  },
+  "alpine": {
+    "controls": true,
+    "colors": true
+  },
+  "altbeast": {
+    "controls": true,
+    "colors": true
+  },
+  "amidar": {
+    "controls": true,
+    "colors": true
+  },
+  "androdun": {
+    "controls": false,
+    "colors": true
+  },
+  "aodk": {
+    "controls": false,
+    "colors": true
+  },
+  "aof": {
+    "controls": false,
+    "colors": true
+  },
+  "aof2": {
+    "controls": false,
+    "colors": true
+  },
+  "aof3": {
+    "controls": false,
+    "colors": true
+  },
+  "apb": {
+    "controls": true,
+    "colors": true
+  },
+  "arabfgt": {
+    "controls": false,
+    "colors": false
+  },
+  "arabian": {
+    "controls": true,
+    "colors": true
+  },
+  "arabianm": {
+    "controls": false,
+    "colors": true
+  },
+  "arknoid2": {
+    "controls": true,
+    "colors": true
+  },
+  "armedf": {
+    "controls": true,
+    "colors": false
+  },
+  "armwar": {
+    "controls": false,
+    "colors": true
+  },
+  "ashura": {
+    "controls": true,
+    "colors": false
+  },
+  "assault": {
+    "controls": true,
+    "colors": true
+  },
+  "astdelux": {
+    "controls": true,
+    "colors": true
+  },
+  "asterix": {
+    "controls": true,
+    "colors": false
+  },
+  "asteroid": {
+    "controls": true,
+    "colors": true
+  },
+  "astorm": {
+    "controls": true,
+    "colors": true
+  },
+  "astyanax": {
+    "controls": false,
+    "colors": true
+  },
+  "asurabld": {
+    "controls": false,
+    "colors": false
+  },
+  "asurabus": {
+    "controls": false,
+    "colors": false
+  },
+  "atetris": {
+    "controls": true,
+    "colors": true
+  },
+  "athena": {
+    "controls": true,
+    "colors": false
+  },
+  "aurail": {
+    "controls": true,
+    "colors": true
+  },
+  "avengers": {
+    "controls": true,
+    "colors": true
+  },
+  "avsp": {
+    "controls": true,
+    "colors": true
+  },
+  "baddudes": {
+    "controls": true,
+    "colors": true
+  },
+  "badlands": {
+    "controls": true,
+    "colors": true
+  },
+  "bakutotu": {
+    "controls": true,
+    "colors": false
+  },
+  "bangbead": {
+    "controls": false,
+    "colors": true
+  },
+  "bankp": {
+    "controls": true,
+    "colors": true
+  },
+  "baraduke": {
+    "controls": true,
+    "colors": false
+  },
+  "batcir": {
+    "controls": false,
+    "colors": true
+  },
+  "batrider": {
+    "controls": false,
+    "colors": false
+  },
+  "batsugunsp": {
+    "controls": false,
+    "colors": false
+  },
+  "battlera": {
+    "controls": true,
+    "colors": true
+  },
+  "bbakraid": {
+    "controls": false,
+    "colors": false
+  },
+  "bbmanw": {
+    "controls": false,
+    "colors": true
+  },
+  "bchopper": {
+    "controls": true,
+    "colors": true
+  },
+  "berzerk": {
+    "controls": true,
+    "colors": true
+  },
+  "bgaregga": {
+    "controls": false,
+    "colors": false
+  },
+  "bigkarnk": {
+    "controls": true,
+    "colors": false
+  },
+  "bioatack": {
+    "controls": true,
+    "colors": false
+  },
+  "biomtoy": {
+    "controls": true,
+    "colors": false
+  },
+  "bionicc": {
+    "controls": true,
+    "colors": true
+  },
+  "bioship": {
+    "controls": true,
+    "colors": false
+  },
+  "bjourney": {
+    "controls": false,
+    "colors": true
+  },
+  "bjtwin": {
+    "controls": false,
+    "colors": false
+  },
+  "blazstar": {
+    "controls": false,
+    "colors": true
+  },
+  "blitz": {
+    "controls": true,
+    "colors": true
+  },
+  "blkheart": {
+    "controls": true,
+    "colors": false
+  },
+  "blktiger": {
+    "controls": true,
+    "colors": true
+  },
+  "blockhl": {
+    "controls": false,
+    "colors": false
+  },
+  "blockout": {
+    "controls": true,
+    "colors": true
+  },
+  "bloodbro": {
+    "controls": true,
+    "colors": true
+  },
+  "bloodstm": {
+    "controls": false,
+    "colors": true
+  },
+  "bloodwar": {
+    "controls": false,
+    "colors": false
+  },
+  "blstroid": {
+    "controls": true,
+    "colors": true
+  },
+  "bmaster": {
+    "controls": true,
+    "colors": false
+  },
+  "bnj": {
+    "controls": false,
+    "colors": false
+  },
+  "bnzabros": {
+    "controls": false,
+    "colors": true
+  },
+  "bombjack": {
+    "controls": true,
+    "colors": true
+  },
+  "bonkadv": {
+    "controls": false,
+    "colors": false
+  },
+  "bonzeadv": {
+    "controls": false,
+    "colors": false
+  },
+  "boogwing": {
+    "controls": true,
+    "colors": true
+  },
+  "bosco": {
+    "controls": true,
+    "colors": true
+  },
+  "brapboys": {
+    "controls": false,
+    "colors": false
+  },
+  "breakers": {
+    "controls": false,
+    "colors": true
+  },
+  "breakrev": {
+    "controls": false,
+    "colors": true
+  },
+  "brkthru": {
+    "controls": true,
+    "colors": true
+  },
+  "bstars": {
+    "controls": false,
+    "colors": true
+  },
+  "bstars2": {
+    "controls": false,
+    "colors": true
+  },
+  "btime": {
+    "controls": true,
+    "colors": true
+  },
+  "btoads": {
+    "controls": true,
+    "colors": true
+  },
+  "bubblem": {
+    "controls": false,
+    "colors": true
+  },
+  "bubbles": {
+    "controls": true,
+    "colors": true
+  },
+  "bublbob2": {
+    "controls": false,
+    "colors": true
+  },
+  "bublboblr": {
+    "controls": false,
+    "colors": false
+  },
+  "bublcave": {
+    "controls": false,
+    "colors": false
+  },
+  "buckrog": {
+    "controls": true,
+    "colors": true
+  },
+  "bucky": {
+    "controls": false,
+    "colors": false
+  },
+  "buggyboyjr": {
+    "controls": false,
+    "colors": false
+  },
+  "burningf": {
+    "controls": false,
+    "colors": true
+  },
+  "bwidow": {
+    "controls": true,
+    "colors": true
+  },
+  "bzone": {
+    "controls": true,
+    "colors": true
+  },
+  "cabal": {
+    "controls": true,
+    "colors": true
+  },
+  "cadash": {
+    "controls": true,
+    "colors": true
+  },
+  "calibr50": {
+    "controls": true,
+    "colors": true
+  },
+  "captaven": {
+    "controls": true,
+    "colors": true
+  },
+  "captcomm": {
+    "controls": true,
+    "colors": true
+  },
+  "cawing": {
+    "controls": true,
+    "colors": true
+  },
+  "ccastles": {
+    "controls": true,
+    "colors": true
+  },
+  "cclimber": {
+    "controls": true,
+    "colors": true
+  },
+  "centiped": {
+    "controls": true,
+    "colors": true
+  },
+  "chasehq": {
+    "controls": false,
+    "colors": false
+  },
+  "chelnov": {
+    "controls": false,
+    "colors": false
+  },
+  "chopliftbl": {
+    "controls": false,
+    "colors": false
+  },
+  "chopper": {
+    "controls": true,
+    "colors": true
+  },
+  "chqflag": {
+    "controls": false,
+    "colors": false
+  },
+  "chukatai": {
+    "controls": false,
+    "colors": false
+  },
+  "circusc": {
+    "controls": true,
+    "colors": true
+  },
+  "citycon": {
+    "controls": true,
+    "colors": false
+  },
+  "cninja": {
+    "controls": true,
+    "colors": true
+  },
+  "cobracom": {
+    "controls": false,
+    "colors": false
+  },
+  "combatsc": {
+    "controls": false,
+    "colors": false
+  },
+  "commandou": {
+    "controls": false,
+    "colors": false
+  },
+  "congo": {
+    "controls": true,
+    "colors": true
+  },
+  "contcirc": {
+    "controls": false,
+    "colors": false
+  },
+  "contra": {
+    "controls": true,
+    "colors": true
+  },
+  "cop01": {
+    "controls": false,
+    "colors": false
+  },
+  "cosmccop": {
+    "controls": false,
+    "colors": false
+  },
+  "cosmica": {
+    "controls": true,
+    "colors": true
+  },
+  "cotton": {
+    "controls": false,
+    "colors": false
+  },
+  "cotton2": {
+    "controls": false,
+    "colors": false
+  },
+  "cottonbm": {
+    "controls": false,
+    "colors": false
+  },
+  "crimec": {
+    "controls": true,
+    "colors": true
+  },
+  "crimfght": {
+    "controls": true,
+    "colors": true
+  },
+  "crkdown": {
+    "controls": false,
+    "colors": true
+  },
+  "crossbow": {
+    "controls": true,
+    "colors": true
+  },
+  "crshrace": {
+    "controls": false,
+    "colors": false
+  },
+  "crswd2bl": {
+    "controls": false,
+    "colors": false
+  },
+  "crsword": {
+    "controls": false,
+    "colors": true
+  },
+  "crusnusa": {
+    "controls": false,
+    "colors": false
+  },
+  "crysking": {
+    "controls": false,
+    "colors": false
+  },
+  "csclub": {
+    "controls": false,
+    "colors": true
+  },
+  "csilver": {
+    "controls": false,
+    "colors": false
+  },
+  "csprint": {
+    "controls": true,
+    "colors": true
+  },
+  "ctomaday": {
+    "controls": false,
+    "colors": true
+  },
+  "ctribe": {
+    "controls": true,
+    "colors": true
+  },
+  "cybattlr": {
+    "controls": false,
+    "colors": false
+  },
+  "cyberbal2p": {
+    "controls": false,
+    "colors": false
+  },
+  "cyberlip": {
+    "controls": false,
+    "colors": true
+  },
+  "cybots": {
+    "controls": true,
+    "colors": true
+  },
+  "cyvern": {
+    "controls": false,
+    "colors": false
+  },
+  "daioh": {
+    "controls": true,
+    "colors": true
+  },
+  "darius": {
+    "controls": false,
+    "colors": true
+  },
+  "darius2": {
+    "controls": false,
+    "colors": true
+  },
+  "dariusg": {
+    "controls": false,
+    "colors": false
+  },
+  "darkseal": {
+    "controls": true,
+    "colors": true
+  },
+  "dblewing": {
+    "controls": false,
+    "colors": false
+  },
+  "dbreed": {
+    "controls": true,
+    "colors": true
+  },
+  "ddcrew": {
+    "controls": false,
+    "colors": false
+  },
+  "ddonpach": {
+    "controls": false,
+    "colors": false
+  },
+  "ddp2": {
+    "controls": false,
+    "colors": false
+  },
+  "ddpdfk": {
+    "controls": false,
+    "colors": false
+  },
+  "ddpdoj": {
+    "controls": false,
+    "colors": false
+  },
+  "ddragon": {
+    "controls": true,
+    "colors": true
+  },
+  "ddragon2": {
+    "controls": true,
+    "colors": true
+  },
+  "ddragon3": {
+    "controls": true,
+    "colors": true
+  },
+  "ddribble": {
+    "controls": true,
+    "colors": true
+  },
+  "ddsom": {
+    "controls": true,
+    "colors": true
+  },
+  "ddtod": {
+    "controls": true,
+    "colors": true
+  },
+  "ddux": {
+    "controls": false,
+    "colors": false
+  },
+  "deadang": {
+    "controls": true,
+    "colors": true
+  },
+  "deadconx": {
+    "controls": false,
+    "colors": false
+  },
+  "defender": {
+    "controls": true,
+    "colors": true
+  },
+  "demonwld": {
+    "controls": false,
+    "colors": false
+  },
+  "desertbr": {
+    "controls": false,
+    "colors": false
+  },
+  "devilw": {
+    "controls": false,
+    "colors": false
+  },
+  "devstors": {
+    "controls": true,
+    "colors": true
+  },
+  "diehard": {
+    "controls": false,
+    "colors": true
+  },
+  "digdug": {
+    "controls": true,
+    "colors": true
+  },
+  "dimahoo": {
+    "controls": true,
+    "colors": true
+  },
+  "dino": {
+    "controls": true,
+    "colors": true
+  },
+  "djboy": {
+    "controls": true,
+    "colors": true
+  },
+  "dkong": {
+    "controls": true,
+    "colors": true
+  },
+  "dkong3": {
+    "controls": true,
+    "colors": true
+  },
+  "dkongjr": {
+    "controls": true,
+    "colors": true
+  },
+  "dkongx": {
+    "controls": false,
+    "colors": false
+  },
+  "dkongx11": {
+    "controls": false,
+    "colors": false
+  },
+  "dmnfrnt": {
+    "controls": false,
+    "colors": false
+  },
+  "docastle": {
+    "controls": true,
+    "colors": true
+  },
+  "dogyuun": {
+    "controls": false,
+    "colors": false
+  },
+  "dondokod": {
+    "controls": false,
+    "colors": false
+  },
+  "donpachi": {
+    "controls": false,
+    "colors": false
+  },
+  "dotron": {
+    "controls": true,
+    "colors": true
+  },
+  "doubledr": {
+    "controls": true,
+    "colors": true
+  },
+  "dowild": {
+    "controls": true,
+    "colors": true
+  },
+  "dragnblz": {
+    "controls": false,
+    "colors": false
+  },
+  "dragngun": {
+    "controls": true,
+    "colors": true
+  },
+  "drgnbstr": {
+    "controls": false,
+    "colors": false
+  },
+  "driftout": {
+    "controls": false,
+    "colors": false
+  },
+  "dsaber": {
+    "controls": false,
+    "colors": true
+  },
+  "dsmbl": {
+    "controls": false,
+    "colors": false
+  },
+  "dspirit": {
+    "controls": true,
+    "colors": true
+  },
+  "dstlk": {
+    "controls": true,
+    "colors": true
+  },
+  "dynagear": {
+    "controls": false,
+    "colors": false
+  },
+  "dynduke": {
+    "controls": false,
+    "colors": false
+  },
+  "dynwar": {
+    "controls": false,
+    "colors": false
+  },
+  "ecofghtr": {
+    "controls": true,
+    "colors": true
+  },
+  "edrandy": {
+    "controls": false,
+    "colors": false
+  },
+  "eightman": {
+    "controls": false,
+    "colors": true
+  },
+  "elevator": {
+    "controls": true,
+    "colors": true
+  },
+  "elvactr": {
+    "controls": false,
+    "colors": false
+  },
+  "empcity": {
+    "controls": false,
+    "colors": true
+  },
+  "enduror": {
+    "controls": false,
+    "colors": false
+  },
+  "eprom": {
+    "controls": true,
+    "colors": true
+  },
+  "esb": {
+    "controls": true,
+    "colors": true
+  },
+  "espgal": {
+    "controls": true,
+    "colors": true
+  },
+  "espgal2": {
+    "controls": false,
+    "colors": false
+  },
+  "esprade": {
+    "controls": true,
+    "colors": true
+  },
+  "eswat": {
+    "controls": true,
+    "colors": true
+  },
+  "excthour": {
+    "controls": false,
+    "colors": false
+  },
+  "exedexes": {
+    "controls": false,
+    "colors": false
+  },
+  "exerion": {
+    "controls": true,
+    "colors": true
+  },
+  "exprraid": {
+    "controls": false,
+    "colors": true
+  },
+  "exvania": {
+    "controls": false,
+    "colors": false
+  },
+  "fantjour": {
+    "controls": false,
+    "colors": false
+  },
+  "fantzn2": {
+    "controls": false,
+    "colors": false
+  },
+  "fantzone": {
+    "controls": false,
+    "colors": false
+  },
+  "fastlane": {
+    "controls": false,
+    "colors": false
+  },
+  "fatfursp": {
+    "controls": false,
+    "colors": true
+  },
+  "fatfury1": {
+    "controls": false,
+    "colors": true
+  },
+  "fatfury2": {
+    "controls": false,
+    "colors": true
+  },
+  "fatfury3": {
+    "controls": false,
+    "colors": true
+  },
+  "fbfrenzy": {
+    "controls": false,
+    "colors": true
+  },
+  "feversos": {
+    "controls": false,
+    "colors": false
+  },
+  "ffight": {
+    "controls": true,
+    "colors": true
+  },
+  "fhawk": {
+    "controls": false,
+    "colors": false
+  },
+  "fightfev": {
+    "controls": false,
+    "colors": true
+  },
+  "finalb": {
+    "controls": true,
+    "colors": true
+  },
+  "firebarr": {
+    "controls": false,
+    "colors": false
+  },
+  "fireshrk": {
+    "controls": false,
+    "colors": false
+  },
+  "fixeight": {
+    "controls": false,
+    "colors": false
+  },
+  "flicky": {
+    "controls": false,
+    "colors": true
+  },
+  "flipshot": {
+    "controls": false,
+    "colors": true
+  },
+  "foodf2": {
+    "controls": false,
+    "colors": false
+  },
+  "forgottn": {
+    "controls": true,
+    "colors": true
+  },
+  "frogger": {
+    "controls": true,
+    "colors": true
+  },
+  "frontlin": {
+    "controls": true,
+    "colors": true
+  },
+  "fround": {
+    "controls": false,
+    "colors": true
+  },
+  "fshark": {
+    "controls": true,
+    "colors": true
+  },
+  "futari10": {
+    "controls": true,
+    "colors": true
+  },
+  "ga2": {
+    "controls": true,
+    "colors": true
+  },
+  "gaiapols": {
+    "controls": false,
+    "colors": true
+  },
+  "gaiden": {
+    "controls": false,
+    "colors": false
+  },
+  "galaga": {
+    "controls": true,
+    "colors": true
+  },
+  "galaga88": {
+    "controls": true,
+    "colors": true
+  },
+  "galaxian": {
+    "controls": true,
+    "colors": true
+  },
+  "galaxyfg": {
+    "controls": false,
+    "colors": true
+  },
+  "galivan": {
+    "controls": false,
+    "colors": false
+  },
+  "gangwars": {
+    "controls": false,
+    "colors": true
+  },
+  "ganryu": {
+    "controls": false,
+    "colors": true
+  },
+  "gaplus": {
+    "controls": true,
+    "colors": true
+  },
+  "garou": {
+    "controls": true,
+    "colors": true
+  },
+  "gaunt2": {
+    "controls": true,
+    "colors": true
+  },
+  "gaunt22p": {
+    "controls": true,
+    "colors": true
+  },
+  "gauntleg": {
+    "controls": false,
+    "colors": true
+  },
+  "gauntlet": {
+    "controls": true,
+    "colors": true
+  },
+  "gauntlet2p": {
+    "controls": true,
+    "colors": true
+  },
+  "gaxeduel": {
+    "controls": false,
+    "colors": false
+  },
+  "gberet": {
+    "controls": true,
+    "colors": true
+  },
+  "gbusters": {
+    "controls": false,
+    "colors": false
+  },
+  "gforce2": {
+    "controls": true,
+    "colors": true
+  },
+  "gground": {
+    "controls": true,
+    "colors": true
+  },
+  "ghostb": {
+    "controls": true,
+    "colors": true
+  },
+  "ghostlop": {
+    "controls": false,
+    "colors": true
+  },
+  "ghoulsu": {
+    "controls": false,
+    "colors": false
+  },
+  "ghoxj": {
+    "controls": false,
+    "colors": false
+  },
+  "gigawing": {
+    "controls": true,
+    "colors": true
+  },
+  "gijoe": {
+    "controls": true,
+    "colors": true
+  },
+  "gladiatr": {
+    "controls": false,
+    "colors": true
+  },
+  "gloc": {
+    "controls": true,
+    "colors": true
+  },
+  "gnbarich": {
+    "controls": false,
+    "colors": false
+  },
+  "gng": {
+    "controls": true,
+    "colors": true
+  },
+  "goalx3": {
+    "controls": false,
+    "colors": true
+  },
+  "goldnaxe": {
+    "controls": true,
+    "colors": true
+  },
+  "gorf": {
+    "controls": true,
+    "colors": true
+  },
+  "gowcaizr": {
+    "controls": false,
+    "colors": true
+  },
+  "gpilots": {
+    "controls": false,
+    "colors": true
+  },
+  "gpriders": {
+    "controls": false,
+    "colors": false
+  },
+  "gradius": {
+    "controls": false,
+    "colors": false
+  },
+  "gradius2": {
+    "controls": false,
+    "colors": false
+  },
+  "gradius3": {
+    "controls": false,
+    "colors": false
+  },
+  "gratia": {
+    "controls": false,
+    "colors": false
+  },
+  "grdians": {
+    "controls": false,
+    "colors": false
+  },
+  "grindstm": {
+    "controls": false,
+    "colors": false
+  },
+  "growl": {
+    "controls": false,
+    "colors": true
+  },
+  "gt2k": {
+    "controls": true,
+    "colors": true
+  },
+  "gt99": {
+    "controls": true,
+    "colors": true
+  },
+  "gtfore06": {
+    "controls": false,
+    "colors": false
+  },
+  "gtmr2": {
+    "controls": true,
+    "colors": true
+  },
+  "gtmrusa": {
+    "controls": false,
+    "colors": false
+  },
+  "gunbird": {
+    "controls": true,
+    "colors": true
+  },
+  "gunbird2": {
+    "controls": false,
+    "colors": false
+  },
+  "gundhara": {
+    "controls": false,
+    "colors": false
+  },
+  "gunforc2": {
+    "controls": false,
+    "colors": false
+  },
+  "gunforce": {
+    "controls": false,
+    "colors": true
+  },
+  "gunlock": {
+    "controls": false,
+    "colors": false
+  },
+  "gunsmoke": {
+    "controls": true,
+    "colors": true
+  },
+  "gururin": {
+    "controls": false,
+    "colors": true
+  },
+  "guwange": {
+    "controls": true,
+    "colors": true
+  },
+  "gwarb": {
+    "controls": false,
+    "colors": false
+  },
+  "gyruss": {
+    "controls": true,
+    "colors": true
+  },
+  "hangon": {
+    "controls": false,
+    "colors": false
+  },
+  "harddriv": {
+    "controls": false,
+    "colors": false
+  },
+  "hbarrel": {
+    "controls": true,
+    "colors": true
+  },
+  "hcastle": {
+    "controls": true,
+    "colors": true
+  },
+  "heatbrl": {
+    "controls": false,
+    "colors": false
+  },
+  "hharry": {
+    "controls": false,
+    "colors": false
+  },
+  "higemaru": {
+    "controls": false,
+    "colors": false
+  },
+  "hippodrm": {
+    "controls": true,
+    "colors": true
+  },
+  "hitice": {
+    "controls": true,
+    "colors": true
+  },
+  "hotchase": {
+    "controls": false,
+    "colors": false
+  },
+  "hotdogst": {
+    "controls": false,
+    "colors": false
+  },
+  "hsf2": {
+    "controls": false,
+    "colors": false
+  },
+  "hyperspt": {
+    "controls": true,
+    "colors": true
+  },
+  "ibarablk": {
+    "controls": false,
+    "colors": false
+  },
+  "ikari": {
+    "controls": true,
+    "colors": true
+  },
+  "ikari3": {
+    "controls": true,
+    "colors": true
+  },
+  "imgfight": {
+    "controls": false,
+    "colors": false
+  },
+  "indytemp": {
+    "controls": true,
+    "colors": true
+  },
+  "insectx": {
+    "controls": false,
+    "colors": false
+  },
+  "inthunt": {
+    "controls": true,
+    "colors": true
+  },
+  "invaders": {
+    "controls": true,
+    "colors": true
+  },
+  "ironclad": {
+    "controls": false,
+    "colors": false
+  },
+  "ironhors": {
+    "controls": false,
+    "colors": false
+  },
+  "irrmaze": {
+    "controls": false,
+    "colors": true
+  },
+  "jackal": {
+    "controls": true,
+    "colors": true
+  },
+  "jailbrek": {
+    "controls": true,
+    "colors": true
+  },
+  "jdreddp": {
+    "controls": false,
+    "colors": true
+  },
+  "jedi": {
+    "controls": true,
+    "colors": true
+  },
+  "jjsquawk": {
+    "controls": false,
+    "colors": false
+  },
+  "jockeygp": {
+    "controls": false,
+    "colors": true
+  },
+  "joemacr": {
+    "controls": false,
+    "colors": false
+  },
+  "jojoban": {
+    "controls": false,
+    "colors": false
+  },
+  "jojon": {
+    "controls": false,
+    "colors": false
+  },
+  "joust": {
+    "controls": true,
+    "colors": true
+  },
+  "joust2": {
+    "controls": true,
+    "colors": true
+  },
+  "joyjoy": {
+    "controls": false,
+    "colors": true
+  },
+  "jpark": {
+    "controls": true,
+    "colors": true
+  },
+  "junglek": {
+    "controls": true,
+    "colors": true
+  },
+  "junofrst": {
+    "controls": false,
+    "colors": true
+  },
+  "kabukikl": {
+    "controls": false,
+    "colors": true
+  },
+  "kabukiz": {
+    "controls": false,
+    "colors": false
+  },
+  "kageki": {
+    "controls": true,
+    "colors": true
+  },
+  "kangaroo": {
+    "controls": true,
+    "colors": true
+  },
+  "karatblz": {
+    "controls": false,
+    "colors": false
+  },
+  "karnov": {
+    "controls": true,
+    "colors": true
+  },
+  "karnovr": {
+    "controls": false,
+    "colors": true
+  },
+  "kazan": {
+    "controls": false,
+    "colors": false
+  },
+  "kchamp": {
+    "controls": true,
+    "colors": true
+  },
+  "ket": {
+    "controls": false,
+    "colors": false
+  },
+  "kicker": {
+    "controls": true,
+    "colors": true
+  },
+  "kicknrun": {
+    "controls": false,
+    "colors": false
+  },
+  "kidniki": {
+    "controls": false,
+    "colors": true
+  },
+  "kikcubic": {
+    "controls": false,
+    "colors": false
+  },
+  "kikikai": {
+    "controls": false,
+    "colors": false
+  },
+  "kingdmgp": {
+    "controls": false,
+    "colors": false
+  },
+  "kinst": {
+    "controls": true,
+    "colors": true
+  },
+  "kinst2": {
+    "controls": true,
+    "colors": true
+  },
+  "kizuna": {
+    "controls": false,
+    "colors": true
+  },
+  "klax": {
+    "controls": true,
+    "colors": true
+  },
+  "kncljoe": {
+    "controls": false,
+    "colors": false
+  },
+  "knights": {
+    "controls": true,
+    "colors": true
+  },
+  "kod": {
+    "controls": true,
+    "colors": true
+  },
+  "kof2000": {
+    "controls": true,
+    "colors": true
+  },
+  "kof2001": {
+    "controls": true,
+    "colors": true
+  },
+  "kof2002": {
+    "controls": true,
+    "colors": true
+  },
+  "kof2003": {
+    "controls": true,
+    "colors": true
+  },
+  "kof94": {
+    "controls": true,
+    "colors": true
+  },
+  "kof95": {
+    "controls": true,
+    "colors": true
+  },
+  "kof96": {
+    "controls": true,
+    "colors": true
+  },
+  "kof97": {
+    "controls": true,
+    "colors": true
+  },
+  "kof98": {
+    "controls": true,
+    "colors": true
+  },
+  "kof99": {
+    "controls": true,
+    "colors": true
+  },
+  "kotm": {
+    "controls": false,
+    "colors": true
+  },
+  "kotm2": {
+    "controls": false,
+    "colors": true
+  },
+  "kov": {
+    "controls": false,
+    "colors": false
+  },
+  "kov2": {
+    "controls": false,
+    "colors": false
+  },
+  "kungfum": {
+    "controls": true,
+    "colors": true
+  },
+  "kurikint": {
+    "controls": true,
+    "colors": true
+  },
+  "ladybug": {
+    "controls": true,
+    "colors": true
+  },
+  "lastblad": {
+    "controls": true,
+    "colors": true
+  },
+  "lastbld2": {
+    "controls": true,
+    "colors": true
+  },
+  "lastduel": {
+    "controls": true,
+    "colors": true
+  },
+  "lasthope": {
+    "controls": false,
+    "colors": false
+  },
+  "lbowling": {
+    "controls": false,
+    "colors": true
+  },
+  "ldrun": {
+    "controls": true,
+    "colors": true
+  },
+  "ldrun2": {
+    "controls": false,
+    "colors": false
+  },
+  "legendos": {
+    "controls": false,
+    "colors": true
+  },
+  "legion": {
+    "controls": false,
+    "colors": false
+  },
+  "lemmings": {
+    "controls": false,
+    "colors": false
+  },
+  "lghost": {
+    "controls": true,
+    "colors": true
+  },
+  "lgtnfght": {
+    "controls": false,
+    "colors": false
+  },
+  "lightbr": {
+    "controls": false,
+    "colors": false
+  },
+  "liquidk": {
+    "controls": false,
+    "colors": false
+  },
+  "lkage": {
+    "controls": true,
+    "colors": true
+  },
+  "llander": {
+    "controls": true,
+    "colors": true
+  },
+  "loderndf": {
+    "controls": false,
+    "colors": false
+  },
+  "loffire": {
+    "controls": false,
+    "colors": false
+  },
+  "loht": {
+    "controls": false,
+    "colors": false
+  },
+  "lrescue": {
+    "controls": true,
+    "colors": true
+  },
+  "lresort": {
+    "controls": false,
+    "colors": true
+  },
+  "ltswords": {
+    "controls": false,
+    "colors": false
+  },
+  "luckywld": {
+    "controls": false,
+    "colors": false
+  },
+  "lwings": {
+    "controls": false,
+    "colors": true
+  },
+  "macross": {
+    "controls": false,
+    "colors": true
+  },
+  "macross2": {
+    "controls": false,
+    "colors": true
+  },
+  "macrossp": {
+    "controls": false,
+    "colors": false
+  },
+  "madgear": {
+    "controls": false,
+    "colors": false
+  },
+  "magdrop2": {
+    "controls": false,
+    "colors": true
+  },
+  "magdrop3": {
+    "controls": false,
+    "colors": true
+  },
+  "maglord": {
+    "controls": false,
+    "colors": true
+  },
+  "magmax": {
+    "controls": false,
+    "colors": false
+  },
+  "mainevt": {
+    "controls": true,
+    "colors": true
+  },
+  "majtitl2": {
+    "controls": false,
+    "colors": true
+  },
+  "mappy": {
+    "controls": true,
+    "colors": true
+  },
+  "marble": {
+    "controls": true,
+    "colors": true
+  },
+  "mario": {
+    "controls": true,
+    "colors": true
+  },
+  "martmast": {
+    "controls": false,
+    "colors": true
+  },
+  "matrim": {
+    "controls": false,
+    "colors": true
+  },
+  "mazinger": {
+    "controls": false,
+    "colors": false
+  },
+  "mbombrd": {
+    "controls": false,
+    "colors": false
+  },
+  "mechatt": {
+    "controls": true,
+    "colors": true
+  },
+  "megaman2": {
+    "controls": true,
+    "colors": true
+  },
+  "mercs": {
+    "controls": true,
+    "colors": true
+  },
+  "metamrph": {
+    "controls": true,
+    "colors": true
+  },
+  "metlhawk": {
+    "controls": false,
+    "colors": false
+  },
+  "metrocrs": {
+    "controls": true,
+    "colors": true
+  },
+  "mgcrystl": {
+    "controls": false,
+    "colors": false
+  },
+  "mhavoc": {
+    "controls": true,
+    "colors": true
+  },
+  "mia": {
+    "controls": false,
+    "colors": false
+  },
+  "midres": {
+    "controls": true,
+    "colors": true
+  },
+  "miexchng": {
+    "controls": false,
+    "colors": true
+  },
+  "mikie": {
+    "controls": false,
+    "colors": false
+  },
+  "milliped": {
+    "controls": true,
+    "colors": true
+  },
+  "missile": {
+    "controls": true,
+    "colors": true
+  },
+  "mk": {
+    "controls": true,
+    "colors": true
+  },
+  "mk2": {
+    "controls": true,
+    "colors": true
+  },
+  "mk3": {
+    "controls": true,
+    "colors": true
+  },
+  "mmatrix": {
+    "controls": true,
+    "colors": true
+  },
+  "mmaulers": {
+    "controls": false,
+    "colors": false
+  },
+  "mmaze": {
+    "controls": false,
+    "colors": false
+  },
+  "mmpork": {
+    "controls": false,
+    "colors": false
+  },
+  "monsterb": {
+    "controls": true,
+    "colors": true
+  },
+  "moomesa": {
+    "controls": false,
+    "colors": false
+  },
+  "mooncrst": {
+    "controls": true,
+    "colors": true
+  },
+  "mpang": {
+    "controls": false,
+    "colors": false
+  },
+  "mpatrol": {
+    "controls": true,
+    "colors": true
+  },
+  "mplanets": {
+    "controls": true,
+    "colors": true
+  },
+  "mrdo": {
+    "controls": true,
+    "colors": true
+  },
+  "mrdrillr": {
+    "controls": true,
+    "colors": true
+  },
+  "msh": {
+    "controls": true,
+    "colors": true
+  },
+  "mshvsf": {
+    "controls": true,
+    "colors": true
+  },
+  "mshvsfa": {
+    "controls": false,
+    "colors": false
+  },
+  "mslug": {
+    "controls": true,
+    "colors": true
+  },
+  "mslug2t": {
+    "controls": false,
+    "colors": false
+  },
+  "mslug3": {
+    "controls": true,
+    "colors": true
+  },
+  "mslug4": {
+    "controls": true,
+    "colors": true
+  },
+  "mslug5": {
+    "controls": true,
+    "colors": true
+  },
+  "mslugx": {
+    "controls": true,
+    "colors": true
+  },
+  "mspacman": {
+    "controls": true,
+    "colors": true
+  },
+  "msword": {
+    "controls": true,
+    "colors": true
+  },
+  "mtwins": {
+    "controls": false,
+    "colors": false
+  },
+  "mushisam": {
+    "controls": false,
+    "colors": false
+  },
+  "mustache": {
+    "controls": false,
+    "colors": false
+  },
+  "mustang": {
+    "controls": false,
+    "colors": false
+  },
+  "mutantf": {
+    "controls": false,
+    "colors": false
+  },
+  "mutnat": {
+    "controls": false,
+    "colors": true
+  },
+  "mvsc": {
+    "controls": true,
+    "colors": true
+  },
+  "mvscb": {
+    "controls": false,
+    "colors": false
+  },
+  "mwalk": {
+    "controls": true,
+    "colors": true
+  },
+  "myhero": {
+    "controls": false,
+    "colors": true
+  },
+  "mysticri": {
+    "controls": false,
+    "colors": false
+  },
+  "mystston": {
+    "controls": false,
+    "colors": false
+  },
+  "mystwarr": {
+    "controls": true,
+    "colors": true
+  },
+  "nam1975": {
+    "controls": false,
+    "colors": true
+  },
+  "narc": {
+    "controls": true,
+    "colors": true
+  },
+  "nastar": {
+    "controls": true,
+    "colors": true
+  },
+  "naughtyb": {
+    "controls": true,
+    "colors": true
+  },
+  "nbahangt": {
+    "controls": true,
+    "colors": true
+  },
+  "nbajamte": {
+    "controls": false,
+    "colors": false
+  },
+  "nbamht": {
+    "controls": false,
+    "colors": false
+  },
+  "nbbatman": {
+    "controls": false,
+    "colors": false
+  },
+  "ncombat": {
+    "controls": false,
+    "colors": true
+  },
+  "ncommand": {
+    "controls": false,
+    "colors": true
+  },
+  "nebulray": {
+    "controls": false,
+    "colors": false
+  },
+  "nemo": {
+    "controls": false,
+    "colors": false
+  },
+  "neobombe": {
+    "controls": false,
+    "colors": true
+  },
+  "neocup98": {
+    "controls": false,
+    "colors": true
+  },
+  "neodrift": {
+    "controls": false,
+    "colors": true
+  },
+  "neomrdo": {
+    "controls": false,
+    "colors": true
+  },
+  "nibbler": {
+    "controls": true,
+    "colors": true
+  },
+  "nightstr": {
+    "controls": false,
+    "colors": false
+  },
+  "ninclown": {
+    "controls": false,
+    "colors": true
+  },
+  "ninjak": {
+    "controls": false,
+    "colors": false
+  },
+  "ninjakd2": {
+    "controls": false,
+    "colors": true
+  },
+  "ninjamas": {
+    "controls": false,
+    "colors": true
+  },
+  "ninjaw": {
+    "controls": true,
+    "colors": true
+  },
+  "ninjemak": {
+    "controls": false,
+    "colors": false
+  },
+  "nitd": {
+    "controls": false,
+    "colors": true
+  },
+  "nitrobal": {
+    "controls": false,
+    "colors": false
+  },
+  "nslashers": {
+    "controls": false,
+    "colors": false
+  },
+  "nspirit": {
+    "controls": true,
+    "colors": true
+  },
+  "nwarr": {
+    "controls": false,
+    "colors": true
+  },
+  "nzeroteam": {
+    "controls": false,
+    "colors": false
+  },
+  "offroadt": {
+    "controls": true,
+    "colors": true
+  },
+  "openice": {
+    "controls": true,
+    "colors": true
+  },
+  "opwolf": {
+    "controls": true,
+    "colors": true
+  },
+  "ordyne": {
+    "controls": false,
+    "colors": false
+  },
+  "orlegend": {
+    "controls": false,
+    "colors": false
+  },
+  "orunners": {
+    "controls": false,
+    "colors": false
+  },
+  "osman": {
+    "controls": false,
+    "colors": false
+  },
+  "othunder": {
+    "controls": true,
+    "colors": true
+  },
+  "outrun": {
+    "controls": true,
+    "colors": true
+  },
+  "outzone": {
+    "controls": false,
+    "colors": false
+  },
+  "overtop": {
+    "controls": false,
+    "colors": true
+  },
+  "p47": {
+    "controls": false,
+    "colors": true
+  },
+  "p47aces": {
+    "controls": false,
+    "colors": false
+  },
+  "pacland": {
+    "controls": true,
+    "colors": true
+  },
+  "pacman": {
+    "controls": true,
+    "colors": true
+  },
+  "pacmania": {
+    "controls": true,
+    "colors": true
+  },
+  "panicbom": {
+    "controls": false,
+    "colors": true
+  },
+  "paperboy": {
+    "controls": true,
+    "colors": true
+  },
+  "parodius": {
+    "controls": false,
+    "colors": false
+  },
+  "pbobbl2n": {
+    "controls": false,
+    "colors": true
+  },
+  "pbobble4": {
+    "controls": false,
+    "colors": false
+  },
+  "pbobblen": {
+    "controls": false,
+    "colors": true
+  },
+  "pdrift": {
+    "controls": true,
+    "colors": true
+  },
+  "pengo": {
+    "controls": true,
+    "colors": true
+  },
+  "peterpak": {
+    "controls": true,
+    "colors": true
+  },
+  "pgoal": {
+    "controls": false,
+    "colors": true
+  },
+  "phelios": {
+    "controls": false,
+    "colors": false
+  },
+  "phoenix": {
+    "controls": true,
+    "colors": true
+  },
+  "pinkswts": {
+    "controls": false,
+    "colors": false
+  },
+  "pipibibs": {
+    "controls": false,
+    "colors": false
+  },
+  "pirates": {
+    "controls": false,
+    "colors": false
+  },
+  "pitfall2": {
+    "controls": true,
+    "colors": true
+  },
+  "pitfight": {
+    "controls": true,
+    "colors": true
+  },
+  "pleiads": {
+    "controls": true,
+    "colors": true
+  },
+  "plusalph": {
+    "controls": false,
+    "colors": false
+  },
+  "pnickj": {
+    "controls": false,
+    "colors": false
+  },
+  "pnyaa": {
+    "controls": false,
+    "colors": true
+  },
+  "polepos": {
+    "controls": true,
+    "colors": true
+  },
+  "polepos2": {
+    "controls": true,
+    "colors": true
+  },
+  "pooyan": {
+    "controls": true,
+    "colors": true
+  },
+  "popbounc": {
+    "controls": false,
+    "colors": true
+  },
+  "popeye": {
+    "controls": true,
+    "colors": true
+  },
+  "poundfor": {
+    "controls": false,
+    "colors": true
+  },
+  "pow": {
+    "controls": true,
+    "colors": true
+  },
+  "prehisle": {
+    "controls": false,
+    "colors": true
+  },
+  "preisle2": {
+    "controls": false,
+    "colors": true
+  },
+  "prikura": {
+    "controls": false,
+    "colors": false
+  },
+  "primrage": {
+    "controls": false,
+    "colors": true
+  },
+  "progear": {
+    "controls": false,
+    "colors": true
+  },
+  "pspikes2": {
+    "controls": false,
+    "colors": true
+  },
+  "psychic5": {
+    "controls": false,
+    "colors": false
+  },
+  "psychos": {
+    "controls": true,
+    "colors": true
+  },
+  "ptblank": {
+    "controls": true,
+    "colors": true
+  },
+  "pulirula": {
+    "controls": false,
+    "colors": false
+  },
+  "pulstar": {
+    "controls": false,
+    "colors": true
+  },
+  "punchout": {
+    "controls": true,
+    "colors": true
+  },
+  "punisher": {
+    "controls": true,
+    "colors": true
+  },
+  "puzzldpr": {
+    "controls": false,
+    "colors": false
+  },
+  "qbert": {
+    "controls": true,
+    "colors": true
+  },
+  "quartet2": {
+    "controls": false,
+    "colors": false
+  },
+  "rabbit": {
+    "controls": false,
+    "colors": false
+  },
+  "rackemup": {
+    "controls": false,
+    "colors": false
+  },
+  "radarscp": {
+    "controls": true,
+    "colors": true
+  },
+  "radm": {
+    "controls": false,
+    "colors": false
+  },
+  "ragnagrd": {
+    "controls": false,
+    "colors": true
+  },
+  "raiden": {
+    "controls": false,
+    "colors": true
+  },
+  "raidendx": {
+    "controls": false,
+    "colors": false
+  },
+  "rallybik": {
+    "controls": false,
+    "colors": true
+  },
+  "rallyx": {
+    "controls": true,
+    "colors": true
+  },
+  "rambo3": {
+    "controls": false,
+    "colors": false
+  },
+  "rampage": {
+    "controls": true,
+    "colors": true
+  },
+  "rampart2p": {
+    "controls": false,
+    "colors": false
+  },
+  "raphero": {
+    "controls": false,
+    "colors": false
+  },
+  "rastsaga": {
+    "controls": true,
+    "colors": true
+  },
+  "raveracw": {
+    "controls": false,
+    "colors": false
+  },
+  "raystorm": {
+    "controls": false,
+    "colors": false
+  },
+  "rbff1": {
+    "controls": false,
+    "colors": true
+  },
+  "rbff2": {
+    "controls": false,
+    "colors": true
+  },
+  "rbffspec": {
+    "controls": false,
+    "colors": true
+  },
+  "rbisland": {
+    "controls": true,
+    "colors": true
+  },
+  "rbislande": {
+    "controls": false,
+    "colors": false
+  },
+  "rdft": {
+    "controls": true,
+    "colors": true
+  },
+  "rdft2": {
+    "controls": true,
+    "colors": true
+  },
+  "reactor": {
+    "controls": true,
+    "colors": true
+  },
+  "redearth": {
+    "controls": false,
+    "colors": false
+  },
+  "renegade": {
+    "controls": true,
+    "colors": true
+  },
+  "rezon": {
+    "controls": false,
+    "colors": false
+  },
+  "rfjet": {
+    "controls": true,
+    "colors": true
+  },
+  "ridgera2": {
+    "controls": false,
+    "colors": false
+  },
+  "ridgerac": {
+    "controls": false,
+    "colors": false
+  },
+  "ridhero": {
+    "controls": false,
+    "colors": true
+  },
+  "ringdest": {
+    "controls": false,
+    "colors": true
+  },
+  "riot": {
+    "controls": false,
+    "colors": false
+  },
+  "riotcity": {
+    "controls": false,
+    "colors": false
+  },
+  "rmpgwt": {
+    "controls": true,
+    "colors": true
+  },
+  "roadblst": {
+    "controls": true,
+    "colors": true
+  },
+  "roadf": {
+    "controls": true,
+    "colors": true
+  },
+  "roadrunn": {
+    "controls": true,
+    "colors": true
+  },
+  "roboarmy": {
+    "controls": false,
+    "colors": true
+  },
+  "robocop": {
+    "controls": true,
+    "colors": true
+  },
+  "robocop2": {
+    "controls": true,
+    "colors": true
+  },
+  "robokid": {
+    "controls": true,
+    "colors": false
+  },
+  "robotron": {
+    "controls": true,
+    "colors": true
+  },
+  "rocnrope": {
+    "controls": true,
+    "colors": true
+  },
+  "rodland": {
+    "controls": false,
+    "colors": false
+  },
+  "rohga": {
+    "controls": false,
+    "colors": false
+  },
+  "rotd": {
+    "controls": false,
+    "colors": true
+  },
+  "rpunch": {
+    "controls": false,
+    "colors": false
+  },
+  "rsgun": {
+    "controls": false,
+    "colors": true
+  },
+  "rthun2": {
+    "controls": false,
+    "colors": true
+  },
+  "rthunder": {
+    "controls": true,
+    "colors": true
+  },
+  "rtype": {
+    "controls": true,
+    "colors": true
+  },
+  "rtype2": {
+    "controls": true,
+    "colors": true
+  },
+  "rtypeleo": {
+    "controls": false,
+    "colors": false
+  },
+  "rungun": {
+    "controls": true,
+    "colors": true
+  },
+  "rungun2": {
+    "controls": false,
+    "colors": true
+  },
+  "rygar": {
+    "controls": true,
+    "colors": true
+  },
+  "s1945": {
+    "controls": true,
+    "colors": true
+  },
+  "s1945ii": {
+    "controls": false,
+    "colors": true
+  },
+  "s1945iii": {
+    "controls": true,
+    "colors": true
+  },
+  "s1945p": {
+    "controls": false,
+    "colors": true
+  },
+  "sailormn": {
+    "controls": false,
+    "colors": false
+  },
+  "salamand": {
+    "controls": true,
+    "colors": true
+  },
+  "salmndr2": {
+    "controls": false,
+    "colors": false
+  },
+  "samsh5sp": {
+    "controls": true,
+    "colors": true
+  },
+  "samsho": {
+    "controls": true,
+    "colors": true
+  },
+  "samsho2": {
+    "controls": true,
+    "colors": true
+  },
+  "samsho3": {
+    "controls": true,
+    "colors": true
+  },
+  "samsho4": {
+    "controls": true,
+    "colors": true
+  },
+  "samsho5": {
+    "controls": true,
+    "colors": true
+  },
+  "samuraia": {
+    "controls": false,
+    "colors": false
+  },
+  "sandscrp": {
+    "controls": false,
+    "colors": false
+  },
+  "savagere": {
+    "controls": false,
+    "colors": true
+  },
+  "sbomber": {
+    "controls": false,
+    "colors": false
+  },
+  "schmeisr": {
+    "controls": false,
+    "colors": false
+  },
+  "sci": {
+    "controls": false,
+    "colors": false
+  },
+  "scontra": {
+    "controls": true,
+    "colors": true
+  },
+  "scramble": {
+    "controls": true,
+    "colors": true
+  },
+  "scross": {
+    "controls": false,
+    "colors": false
+  },
+  "sdfight": {
+    "controls": false,
+    "colors": false
+  },
+  "sdi": {
+    "controls": true,
+    "colors": true
+  },
+  "sdodgeb": {
+    "controls": false,
+    "colors": true
+  },
+  "searchar": {
+    "controls": true,
+    "colors": true
+  },
+  "sectionz": {
+    "controls": false,
+    "colors": false
+  },
+  "seganinj": {
+    "controls": false,
+    "colors": false
+  },
+  "selfeena": {
+    "controls": false,
+    "colors": false
+  },
+  "sengekis": {
+    "controls": false,
+    "colors": false
+  },
+  "sengoku": {
+    "controls": false,
+    "colors": true
+  },
+  "sengoku2": {
+    "controls": false,
+    "colors": true
+  },
+  "sengoku3": {
+    "controls": false,
+    "colors": true
+  },
+  "sexyparo": {
+    "controls": false,
+    "colors": false
+  },
+  "sf": {
+    "controls": true,
+    "colors": true
+  },
+  "sf2": {
+    "controls": true,
+    "colors": true
+  },
+  "sf2ce": {
+    "controls": true,
+    "colors": true
+  },
+  "sf2hf": {
+    "controls": false,
+    "colors": false
+  },
+  "sfa": {
+    "controls": true,
+    "colors": true
+  },
+  "sfa2": {
+    "controls": true,
+    "colors": true
+  },
+  "sfa3": {
+    "controls": true,
+    "colors": true
+  },
+  "sfa3b": {
+    "controls": false,
+    "colors": false
+  },
+  "sfex": {
+    "controls": false,
+    "colors": true
+  },
+  "sfex2": {
+    "controls": false,
+    "colors": true
+  },
+  "sfiii2n": {
+    "controls": false,
+    "colors": false
+  },
+  "sfiii3n": {
+    "controls": false,
+    "colors": false
+  },
+  "sfiiin": {
+    "controls": false,
+    "colors": false
+  },
+  "sfposeid": {
+    "controls": false,
+    "colors": false
+  },
+  "sftm": {
+    "controls": true,
+    "colors": true
+  },
+  "sgemf": {
+    "controls": true,
+    "colors": true
+  },
+  "sgunner": {
+    "controls": true,
+    "colors": true
+  },
+  "sgunner2": {
+    "controls": true,
+    "colors": true
+  },
+  "shadfrce": {
+    "controls": false,
+    "colors": false
+  },
+  "shadowld": {
+    "controls": false,
+    "colors": false
+  },
+  "shangon": {
+    "controls": false,
+    "colors": false
+  },
+  "sharrier": {
+    "controls": true,
+    "colors": true
+  },
+  "shdancer": {
+    "controls": true,
+    "colors": true
+  },
+  "shienryu": {
+    "controls": false,
+    "colors": false
+  },
+  "shimpact": {
+    "controls": true,
+    "colors": true
+  },
+  "shinobi": {
+    "controls": true,
+    "colors": true
+  },
+  "shocktr2": {
+    "controls": false,
+    "colors": true
+  },
+  "shocktro": {
+    "controls": false,
+    "colors": true
+  },
+  "shollow": {
+    "controls": true,
+    "colors": true
+  },
+  "sidearms": {
+    "controls": true,
+    "colors": true
+  },
+  "sidepckt": {
+    "controls": false,
+    "colors": false
+  },
+  "silentd": {
+    "controls": false,
+    "colors": true
+  },
+  "silkworm": {
+    "controls": true,
+    "colors": true
+  },
+  "simpsons": {
+    "controls": true,
+    "colors": true
+  },
+  "simpsons2p": {
+    "controls": true,
+    "colors": true
+  },
+  "sinistar": {
+    "controls": true,
+    "colors": true
+  },
+  "skykiddx": {
+    "controls": false,
+    "colors": false
+  },
+  "slammast": {
+    "controls": true,
+    "colors": true
+  },
+  "slapfigh": {
+    "controls": true,
+    "colors": true
+  },
+  "slipstrm": {
+    "controls": false,
+    "colors": false
+  },
+  "slyspy": {
+    "controls": true,
+    "colors": true
+  },
+  "smashtv": {
+    "controls": true,
+    "colors": true
+  },
+  "smgp": {
+    "controls": true,
+    "colors": false
+  },
+  "snowbro2": {
+    "controls": false,
+    "colors": false
+  },
+  "snowbros": {
+    "controls": true,
+    "colors": true
+  },
+  "socbrawl": {
+    "controls": false,
+    "colors": true
+  },
+  "soldivid": {
+    "controls": false,
+    "colors": true
+  },
+  "solomon": {
+    "controls": true,
+    "colors": true
+  },
+  "sonic": {
+    "controls": false,
+    "colors": false
+  },
+  "sonicwi2": {
+    "controls": false,
+    "colors": true
+  },
+  "sonicwi3": {
+    "controls": false,
+    "colors": true
+  },
+  "sonson": {
+    "controls": false,
+    "colors": false
+  },
+  "soulclbr": {
+    "controls": false,
+    "colors": false
+  },
+  "spacedx": {
+    "controls": true,
+    "colors": true
+  },
+  "spang": {
+    "controls": false,
+    "colors": true
+  },
+  "spelunk2": {
+    "controls": false,
+    "colors": false
+  },
+  "spf2t": {
+    "controls": false,
+    "colors": false
+  },
+  "spiders": {
+    "controls": true,
+    "colors": true
+  },
+  "spidman": {
+    "controls": true,
+    "colors": true
+  },
+  "spinlbrk": {
+    "controls": false,
+    "colors": false
+  },
+  "spinmast": {
+    "controls": false,
+    "colors": true
+  },
+  "splatter": {
+    "controls": false,
+    "colors": false
+  },
+  "spnchout": {
+    "controls": true,
+    "colors": true
+  },
+  "spy": {
+    "controls": false,
+    "colors": true
+  },
+  "spyhunt": {
+    "controls": false,
+    "colors": false
+  },
+  "sranger": {
+    "controls": false,
+    "colors": false
+  },
+  "srumbler": {
+    "controls": true,
+    "colors": true
+  },
+  "ssf2t": {
+    "controls": false,
+    "colors": false
+  },
+  "ssf2xj": {
+    "controls": false,
+    "colors": false
+  },
+  "ssideki": {
+    "controls": false,
+    "colors": true
+  },
+  "ssideki2": {
+    "controls": false,
+    "colors": true
+  },
+  "ssideki3": {
+    "controls": false,
+    "colors": true
+  },
+  "ssideki4": {
+    "controls": false,
+    "colors": true
+  },
+  "ssmissin": {
+    "controls": false,
+    "colors": false
+  },
+  "ssprint": {
+    "controls": true,
+    "colors": false
+  },
+  "ssriders": {
+    "controls": true,
+    "colors": true
+  },
+  "ssridersabd": {
+    "controls": false,
+    "colors": false
+  },
+  "sstriker": {
+    "controls": false,
+    "colors": false
+  },
+  "stakwin": {
+    "controls": false,
+    "colors": true
+  },
+  "stakwin2": {
+    "controls": false,
+    "colors": true
+  },
+  "starblad": {
+    "controls": false,
+    "colors": false
+  },
+  "starforc": {
+    "controls": true,
+    "colors": true
+  },
+  "stargate": {
+    "controls": true,
+    "colors": true
+  },
+  "starwars": {
+    "controls": true,
+    "colors": false
+  },
+  "stmblade": {
+    "controls": false,
+    "colors": false
+  },
+  "streetsm": {
+    "controls": false,
+    "colors": true
+  },
+  "strhoop": {
+    "controls": false,
+    "colors": true
+  },
+  "strider": {
+    "controls": true,
+    "colors": true
+  },
+  "strider2": {
+    "controls": false,
+    "colors": false
+  },
+  "strkfgtr": {
+    "controls": false,
+    "colors": false
+  },
+  "strkforc": {
+    "controls": true,
+    "colors": true
+  },
+  "stunrun": {
+    "controls": true,
+    "colors": false
+  },
+  "superman": {
+    "controls": true,
+    "colors": true
+  },
+  "superspy": {
+    "controls": false,
+    "colors": true
+  },
+  "svc": {
+    "controls": false,
+    "colors": true
+  },
+  "svg": {
+    "controls": false,
+    "colors": false
+  },
+  "swatpolc": {
+    "controls": false,
+    "colors": false
+  },
+  "swimmer": {
+    "controls": true,
+    "colors": true
+  },
+  "tacscan": {
+    "controls": false,
+    "colors": true
+  },
+  "tankfrce": {
+    "controls": false,
+    "colors": false
+  },
+  "tapper": {
+    "controls": true,
+    "colors": false
+  },
+  "tbowl": {
+    "controls": true,
+    "colors": true
+  },
+  "tbyahhoo": {
+    "controls": false,
+    "colors": false
+  },
+  "tcobra2": {
+    "controls": false,
+    "colors": false
+  },
+  "tdragon": {
+    "controls": false,
+    "colors": false
+  },
+  "tdragon2": {
+    "controls": false,
+    "colors": false
+  },
+  "teddybb": {
+    "controls": false,
+    "colors": false
+  },
+  "tehkanwc": {
+    "controls": true,
+    "colors": false
+  },
+  "tekken": {
+    "controls": true,
+    "colors": true
+  },
+  "tekken2": {
+    "controls": true,
+    "colors": true
+  },
+  "tekken3": {
+    "controls": true,
+    "colors": true
+  },
+  "tektagt": {
+    "controls": false,
+    "colors": true
+  },
+  "tempest": {
+    "controls": true,
+    "colors": true
+  },
+  "tengai": {
+    "controls": true,
+    "colors": false
+  },
+  "term2": {
+    "controls": true,
+    "colors": false
+  },
+  "terracre": {
+    "controls": true,
+    "colors": true
+  },
+  "terraf": {
+    "controls": true,
+    "colors": true
+  },
+  "tfrceac": {
+    "controls": false,
+    "colors": false
+  },
+  "tgm2p": {
+    "controls": false,
+    "colors": false
+  },
+  "tharrier": {
+    "controls": false,
+    "colors": false
+  },
+  "thedeep": {
+    "controls": false,
+    "colors": false
+  },
+  "theglad": {
+    "controls": false,
+    "colors": false
+  },
+  "thndrbld": {
+    "controls": true,
+    "colors": false
+  },
+  "thndrx2": {
+    "controls": false,
+    "colors": true
+  },
+  "thndzone": {
+    "controls": false,
+    "colors": true
+  },
+  "thoop": {
+    "controls": false,
+    "colors": false
+  },
+  "thoop2": {
+    "controls": false,
+    "colors": false
+  },
+  "thunderx": {
+    "controls": false,
+    "colors": true
+  },
+  "thundfox": {
+    "controls": true,
+    "colors": true
+  },
+  "tigerh": {
+    "controls": true,
+    "colors": true
+  },
+  "tigeroad": {
+    "controls": true,
+    "colors": true
+  },
+  "timecris": {
+    "controls": true,
+    "colors": false
+  },
+  "timeplt": {
+    "controls": true,
+    "colors": true
+  },
+  "timesold": {
+    "controls": true,
+    "colors": true
+  },
+  "tmnt": {
+    "controls": true,
+    "colors": true
+  },
+  "tmnt2": {
+    "controls": true,
+    "colors": true
+  },
+  "tmnt22pu": {
+    "controls": true,
+    "colors": true
+  },
+  "tmnt2po": {
+    "controls": true,
+    "colors": true
+  },
+  "tndrcade": {
+    "controls": false,
+    "colors": true
+  },
+  "tnk3": {
+    "controls": true,
+    "colors": true
+  },
+  "tnzs": {
+    "controls": false,
+    "colors": true
+  },
+  "toki": {
+    "controls": true,
+    "colors": false
+  },
+  "tokio": {
+    "controls": false,
+    "colors": true
+  },
+  "toobin": {
+    "controls": true,
+    "colors": true
+  },
+  "tophuntr": {
+    "controls": false,
+    "colors": true
+  },
+  "totcarn": {
+    "controls": true,
+    "colors": true
+  },
+  "toutrun3": {
+    "controls": false,
+    "colors": false
+  },
+  "tp84": {
+    "controls": false,
+    "colors": true
+  },
+  "tpgolf": {
+    "controls": false,
+    "colors": true
+  },
+  "trackfld": {
+    "controls": true,
+    "colors": true
+  },
+  "trally": {
+    "controls": false,
+    "colors": true
+  },
+  "travrusa": {
+    "controls": false,
+    "colors": true
+  },
+  "troangel": {
+    "controls": false,
+    "colors": false
+  },
+  "trog": {
+    "controls": true,
+    "colors": true
+  },
+  "trojan": {
+    "controls": true,
+    "colors": true
+  },
+  "tron": {
+    "controls": true,
+    "colors": true
+  },
+  "truxton": {
+    "controls": false,
+    "colors": true
+  },
+  "truxton2": {
+    "controls": false,
+    "colors": false
+  },
+  "tshoot": {
+    "controls": true,
+    "colors": false
+  },
+  "tturf": {
+    "controls": false,
+    "colors": true
+  },
+  "turbo": {
+    "controls": true,
+    "colors": false
+  },
+  "turfmast": {
+    "controls": false,
+    "colors": true
+  },
+  "tutankhm": {
+    "controls": true,
+    "colors": true
+  },
+  "twinbee": {
+    "controls": false,
+    "colors": false
+  },
+  "twincobr": {
+    "controls": true,
+    "colors": true
+  },
+  "twineag2": {
+    "controls": true,
+    "colors": true
+  },
+  "twineagl": {
+    "controls": true,
+    "colors": true
+  },
+  "twinhawk": {
+    "controls": false,
+    "colors": false
+  },
+  "twinspri": {
+    "controls": false,
+    "colors": true
+  },
+  "twocrude": {
+    "controls": false,
+    "colors": false
+  },
+  "twsoc96": {
+    "controls": false,
+    "colors": false
+  },
+  "uccops": {
+    "controls": false,
+    "colors": false
+  },
+  "ultrax": {
+    "controls": false,
+    "colors": false
+  },
+  "umk3": {
+    "controls": true,
+    "colors": true
+  },
+  "unsquad": {
+    "controls": true,
+    "colors": true
+  },
+  "upndown": {
+    "controls": true,
+    "colors": true
+  },
+  "valkyrie": {
+    "controls": true,
+    "colors": false
+  },
+  "valtric": {
+    "controls": false,
+    "colors": false
+  },
+  "vandyke": {
+    "controls": true,
+    "colors": false
+  },
+  "vanguard": {
+    "controls": true,
+    "colors": true
+  },
+  "vaportrau": {
+    "controls": false,
+    "colors": false
+  },
+  "varth": {
+    "controls": true,
+    "colors": true
+  },
+  "vasara": {
+    "controls": false,
+    "colors": false
+  },
+  "vasara2": {
+    "controls": false,
+    "colors": false
+  },
+  "vendetta2pw": {
+    "controls": false,
+    "colors": false
+  },
+  "vf": {
+    "controls": true,
+    "colors": true
+  },
+  "victroad": {
+    "controls": true,
+    "colors": true
+  },
+  "viewpoin": {
+    "controls": false,
+    "colors": true
+  },
+  "vigilanto": {
+    "controls": false,
+    "colors": false
+  },
+  "vimana": {
+    "controls": true,
+    "colors": false
+  },
+  "vindctr2": {
+    "controls": true,
+    "colors": true
+  },
+  "viofight": {
+    "controls": true,
+    "colors": true
+  },
+  "viostorm": {
+    "controls": false,
+    "colors": true
+  },
+  "viprp1": {
+    "controls": false,
+    "colors": true
+  },
+  "vr": {
+    "controls": false,
+    "colors": false
+  },
+  "vsav": {
+    "controls": true,
+    "colors": true
+  },
+  "vsav2": {
+    "controls": true,
+    "colors": true
+  },
+  "vulgus": {
+    "controls": false,
+    "colors": true
+  },
+  "wakuwak7": {
+    "controls": false,
+    "colors": true
+  },
+  "wardner": {
+    "controls": false,
+    "colors": true
+  },
+  "warlords": {
+    "controls": true,
+    "colors": true
+  },
+  "warriorb": {
+    "controls": false,
+    "colors": true
+  },
+  "waterski": {
+    "controls": false,
+    "colors": false
+  },
+  "wb3": {
+    "controls": false,
+    "colors": false
+  },
+  "wbmlvcd": {
+    "controls": false,
+    "colors": false
+  },
+  "wboy": {
+    "controls": true,
+    "colors": true
+  },
+  "wecleman": {
+    "controls": true,
+    "colors": true
+  },
+  "wh1": {
+    "controls": false,
+    "colors": true
+  },
+  "wh2": {
+    "controls": false,
+    "colors": true
+  },
+  "wh2j": {
+    "controls": false,
+    "colors": true
+  },
+  "whp": {
+    "controls": false,
+    "colors": true
+  },
+  "wildfang": {
+    "controls": true,
+    "colors": true
+  },
+  "willow": {
+    "controls": true,
+    "colors": true
+  },
+  "wizdfire": {
+    "controls": true,
+    "colors": true
+  },
+  "wjammers": {
+    "controls": false,
+    "colors": true
+  },
+  "wof": {
+    "controls": false,
+    "colors": false
+  },
+  "wow": {
+    "controls": true,
+    "colors": true
+  },
+  "wrally": {
+    "controls": false,
+    "colors": false
+  },
+  "wrally2": {
+    "controls": false,
+    "colors": false
+  },
+  "wwfmania": {
+    "controls": true,
+    "colors": true
+  },
+  "wwfsstar": {
+    "controls": true,
+    "colors": true
+  },
+  "wwfwfest": {
+    "controls": true,
+    "colors": true
+  },
+  "xenophob": {
+    "controls": true,
+    "colors": true
+  },
+  "xevious": {
+    "controls": true,
+    "colors": true
+  },
+  "xexexj": {
+    "controls": false,
+    "colors": false
+  },
+  "xmcota": {
+    "controls": true,
+    "colors": true
+  },
+  "xmen": {
+    "controls": true,
+    "colors": true
+  },
+  "xmultipl": {
+    "controls": false,
+    "colors": false
+  },
+  "xmvsf": {
+    "controls": true,
+    "colors": true
+  },
+  "xsleena": {
+    "controls": true,
+    "colors": true
+  },
+  "xybots": {
+    "controls": true,
+    "colors": true
+  },
+  "yiear": {
+    "controls": true,
+    "colors": true
+  },
+  "zaxxon": {
+    "controls": true,
+    "colors": true
+  },
+  "zedblade": {
+    "controls": false,
+    "colors": true
+  },
+  "zerowing": {
+    "controls": true,
+    "colors": true
+  },
+  "zombraid": {
+    "controls": true,
+    "colors": true
+  },
+  "zookeep": {
+    "controls": true,
+    "colors": true
+  },
+  "zupapa": {
+    "controls": false,
+    "colors": true
+  },
+  "zwackery": {
+    "controls": true,
+    "colors": true
+  },
+  "": {
+    "controls": false,
+    "colors": false
+  }
+}
